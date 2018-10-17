@@ -8,6 +8,6 @@
         "src/*.h"
     ],
     "dependency": {
-        "sdk-standalone": "1.0.0"
+        "kendryte-sdk_1.0.0": "https://s3.cn-northwest-1.amazonaws.com.cn/kendryte-ide/package-manager/internal/sdk-standalone-1.0.0.zip"
     }
 }
