@@ -2,7 +2,7 @@
     "$schema": "vscode://schemas/CMakeLists",
     "name": "hello_world",
     "version": "1.0.0",
-    "entry": "src/main.c"
+    "entry": "src/main.c",
     "source": [
         "src/*.c",
         "src/*.cpp",
