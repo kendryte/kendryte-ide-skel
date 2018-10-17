@@ -1,0 +1,7 @@
+.idea/
+.vscode/maix-cmake.json
+.vscode/*.bat
+.vscode/*.sh
+build/
+kendryte_libraries
+CMakeLists.txt

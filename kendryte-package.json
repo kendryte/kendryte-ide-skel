@@ -1,0 +1,13 @@
+{
+    "$schema": "vscode://schemas/CMakeLists",
+    "name": "hello_world",
+    "version": "1.0.0",
+    "source": [
+        "src/*.c",
+        "src/*.cpp",
+        "src/*.h"
+    ],
+    "dependency": {
+        "sdk-standalone": "1.0.0"
+    }
+}
